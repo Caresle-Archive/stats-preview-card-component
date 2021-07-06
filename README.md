@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://caresle.github.io/stats-preview-card-component/)
+- Live Site URL: [Github pages](https://caresle.github.io/stats-preview-card-component/)
 
 ## My process
 
