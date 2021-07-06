@@ -36,8 +36,7 @@ Los usuarios deberán ser capaces de:
 
 ### Links
 
-- URL de la solución: [Add solution URL here]()
-- URL para probar el sitio: [Add live site URL here]()
+- URL para probar el sitio: [Add live site URL here](https://caresle.github.io/stats-preview-card-component/)
 
 ## Mi proceso
 
