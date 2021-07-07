@@ -35,7 +35,7 @@ Los usuarios deberán ser capaces de:
 ![](./readme-src/Custom-desktop-resolution.png)  
 
 ### Links
-
+- URL para la solución: [Solution page](https://www.frontendmentor.io/solutions/html-css-IXFNGfeD2)
 - URL para probar el sitio: [Github pages](https://caresle.github.io/stats-preview-card-component/)
 
 ## Mi proceso

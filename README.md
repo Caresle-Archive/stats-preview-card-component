@@ -36,7 +36,7 @@ Users should be able to:
 ![](./readme-src/Custom-desktop-resolution.png)  
 
 ### Links
-
+- Solution URL: [Solution page](https://www.frontendmentor.io/solutions/html-css-IXFNGfeD2)
 - Live Site URL: [Github pages](https://caresle.github.io/stats-preview-card-component/)
 
 ## My process
