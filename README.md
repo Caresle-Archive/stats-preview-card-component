@@ -67,4 +67,4 @@ background-element {
 
 - Frontend Mentor - [@Caresle](https://www.frontendmentor.io/profile/Caresle)
 - Instagram - [@caresle1](https://instagram.com/caresle1)
-
+- Twitter - [@caresle1](https://twitter.com/caresle1)
